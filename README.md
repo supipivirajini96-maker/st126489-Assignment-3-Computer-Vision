@@ -13,6 +13,8 @@ Task 1: Graph Cut Segmentation
 Task 2: Fully Convolutional Network (FCN)
 Task 3: Variational Autoencoder (VAE)
 
+---
+
 ## 🧾 Deliverables
 
 Each task is implemented in a **separate Jupyter notebook** with code, comments, and visualizations in the respective folders:
@@ -39,4 +41,5 @@ Each task is implemented in a **separate Jupyter notebook** with code, comments,
 ## 📸 Results
 
 Sample outputs and visualizations are included in each notebook.
+
 
