@@ -1,22 +1,17 @@
 ﻿# st126489-Assignment-3-Computer-Vision
 
----
 
-## 📁 Overview
+
+## Overview
 
 This repository contains all tasks for **Assignment 3** of the Computer Vision module. 
----
 
-## 🧩 Folder Summary
 
-### **Task 1: Graph Cut Segmentation**
----
+## 📂 Folder Summary
 
-### **Task 2: Fully Convolutional Network (FCN)**
----
-
-### **Task 3: Variational Autoencoder (VAE)**
----
+Task 1: Graph Cut Segmentation
+Task 2: Fully Convolutional Network (FCN)
+Task 3: Variational Autoencoder (VAE)
 
 ## 🧾 Deliverables
 
@@ -44,9 +39,4 @@ Each task is implemented in a **separate Jupyter notebook** with code, comments,
 ## 📸 Results
 
 Sample outputs and visualizations are included in each notebook.
-
----
-
-
-
 
